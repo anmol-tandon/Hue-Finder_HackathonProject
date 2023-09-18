@@ -7,8 +7,8 @@ The project folder contains 3 files:
 2. a.jpg – inout image.
 3. colors.csv – a file that contains our dataset.
 
-##Command to run python file
+## Command to run python file
 python color_detection.py -i a.jpg
 
-##Output  
+## Output  
 Double click on the any part of image to know the name of the pixel color as text and voice output
