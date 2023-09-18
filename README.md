@@ -4,7 +4,7 @@ Innovative project for accurately identifying colors using RGB values from jpg i
 The project folder contains 3 files:
 
 1. color_detection.py – main source code of our project.
-2. a.jpg – inout image.
+2. a.jpg – input image.
 3. colors.csv – a file that contains our dataset.
 
 ## Command to run python file
